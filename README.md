@@ -29,10 +29,3 @@ RandomWalk(sims = 10000)
 
 
     <MonteCarlo.RandomWalk at 0x1123d0c18>
-
-
-
-
-```python
-
-```
