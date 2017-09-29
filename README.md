@@ -23,9 +23,3 @@ RandomWalk(sims = 10000)
 
 
 ![png](output_0_6.png)
-
-
-
-
-
-    <MonteCarlo.RandomWalk at 0x1123d0c18>
