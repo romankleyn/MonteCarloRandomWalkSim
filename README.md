@@ -1,4 +1,4 @@
-# MonteCarloSim
+# MonteCarloRandomWalkSim
 
 
 ```python
